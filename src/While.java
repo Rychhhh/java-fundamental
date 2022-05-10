@@ -1,7 +1,7 @@
 public class While {
     public static void main(String[] args) {
 
-        String newLine = System.getProperty("line.separator");
+        String newLine = System.getProperty("line.separator"); // line separator for looping  ( br if in html )
         var count = 1;
 
         while(true) {
